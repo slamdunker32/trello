@@ -13,3 +13,7 @@
  *= require_tree .
  *= require_self
  */
+ @import '~bootstrap/scss/bootstrap';
+
+ /* ここの行を追加する */
+ @import "custom";
